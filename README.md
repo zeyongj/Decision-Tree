@@ -3,14 +3,21 @@
 ## Introduction
 
 - SFU CMPT 459: Data Mining, Individual Project: Decision Tree Implementation without Using Sklearn.
-- The following packages are needed for this assignment:
-  1	math
-  2	numpy
-  3	pandas
-  4	random
-  5	enum
-  6	copy
 - This assignment is to implement a decision tree program which is written on Python.
+
+## Libraries
+
+The following packages are needed for this assignment:
+- math
+- numpy
+- pandas
+- random
+- enum
+- copy
+
+## Execution
+
+To run decision_tree.py, type the following in the terminal: `python decision_tree.py`.
 
 ## License
 
@@ -49,4 +56,4 @@ online at: http://www.sfu.ca/policies/gazette/student/s10-01.html.
 
 Zeyong, JIN
 
-Oct 20, 2020
+April 20, 2020
