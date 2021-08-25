@@ -1,0 +1,11 @@
+The following packages are needed for this assignment:
+1	math
+2	numpy
+3	pandas
+4	random
+5	enum
+6	copy
+
+Regards,
+Zeyong Jin (301353174, zeyongj@sfu.ca)
+Feb 10, 2021
