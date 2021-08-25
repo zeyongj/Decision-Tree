@@ -8,12 +8,12 @@
 ## Libraries
 
 The following packages are needed for this assignment:
-  1	math
-  2	numpy
-  3	pandas
-  4	random
-  5	enum
-  6	copy
+- math
+- numpy
+- pandas
+- random
+- enum
+- copy
 
 ## Execution
 
