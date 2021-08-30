@@ -1,4 +1,4 @@
-# Decision-Tree
+# Decision Tree
 
 ## Introduction
 
